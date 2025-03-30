@@ -1,23 +1,21 @@
 # module_11_mars_2025
 
-The assingment of this project analysis data about planet Mars as collected by the rover.
-The data measures, amoung other things, temprature and pressure on Mars, as well as rotations around the sun.
+The assignment of this project is to analyze data about planet Mars as collected by the rover.
+The data measures, among other things, Mars's temperature and pressure and its rotation around the sun.
 
 The goal of this project is to calculate and find the following:
-- The average minimum temprature on Mars
+- The average minimum temperature on Mars
 - The Atmospheric pressure on Mars
-- The lenght of the martian year in earth days.
+- The length of the Martian year in Earth days.
 
 Purpose of this project:
-This project is a practise in getting together webscraping skills, data organization, analysis and plotting and safing the final file to csv.
+This project is a practice in web scraping skills, data organization, analysis, plotting, and saving the final file to CSV.
 
-To achieve this project I've utilized:
+To achieve this project, I've utilized:
 - Class solved files
-- Xpert Assistent AI
+- Xpert Assistant AI
 - Stack Overflow
 - Chat GPT
-
-
 
 Systems used:
 Python
